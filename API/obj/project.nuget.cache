@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l6upmiNKxa8=",
+  "dgSpecHash": "MgIxoDjpVUA=",
   "success": true,
-  "projectFilePath": "D:\\neils\\Reactivities\\API\\API.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\engrs\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
-    "C:\\Users\\engrs\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Shoaib\\Desktop\\neils\\Reactivities\\API\\API.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
